@@ -19,4 +19,25 @@ minikube hands-on.
 ![](img/03.startminikube.png)
 
 4. Confirm `minikube` up
+
 ![](img/04.checkstatus.png)
+
+### Working on minikube
+
+Here we get to use simple k8s commands using `kubectl`
+
+5. List pods
+
+![](img/05.listpods.png)
+
+6. Inspect pod
+
+![](img/07.runpod.png)
+
+7. Run a pod then get its name
+
+![](img/08.getpods.png)
+![](img/09.describepod.png)
+
+9. Delete pod
+![](img/10.deletpod.png)
